@@ -1,1 +1,1 @@
-my directory for git projects
+my directory for git projects. Updated
