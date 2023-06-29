@@ -1,1 +1,1 @@
-My first directory in the git rpo
+My first directory in the git repository
